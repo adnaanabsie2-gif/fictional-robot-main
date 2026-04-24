@@ -33,6 +33,7 @@ the following form: YYYY.0M.0D.
   project
 - Added information about how to make a pull request to every part of the
   project
+- Designed a proof of concept for Player Tracker component
 
 ### Changed
 
