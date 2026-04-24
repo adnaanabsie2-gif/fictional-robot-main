@@ -33,6 +33,8 @@ the following form: YYYY.0M.0D.
   project
 - Added information about how to make a pull request to every part of the
   project
+- Designed kernel and enhanced interfaces for PlayerTracker component.
+- Split PlayerTracker into Kernel and extended methods.
 
 ### Changed
 
