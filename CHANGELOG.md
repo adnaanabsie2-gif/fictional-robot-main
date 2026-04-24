@@ -56,6 +56,9 @@ the following form: YYYY.0M.0D.
 - Updated README to include step about using template repo
 - Updated part 3 rubric to include a hierarchy diagram
 - Updated part 6 rubric to account for overall polish
+- added an allplayers kernel method
+- changed kernel and secondary to accomadate the chamges
+
 
 ### Fixed
 
